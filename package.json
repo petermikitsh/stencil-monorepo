@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/petermikitsh/stencil-monorepo/issues"
   },
-  "homepage": "https://github.com/petermikitsh/stencil-monorepo#readme"
+  "homepage": "https://github.com/petermikitsh/stencil-monorepo#readme",
+  "devDependencies": {
+    "lerna": "^3.16.4"
+  }
 }
