@@ -4,6 +4,8 @@
   "description": "Demo of 2 Stencil Component projects managed by Lerna",
   "main": "index.js",
   "scripts": {
+    "postinstall": "lerna bootstrap",
+    "start": "lerna run start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
